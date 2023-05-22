@@ -20,6 +20,16 @@
 # Configuration
 wp-config.php
 
+# Ignore core WordPress files
+wp-config.php
+
+
+wp-content/plugins/
+wp-content/themes/
+
+
+
+
 # Example themes
 /wp-content/themes/twenty*/
 

@@ -1,0 +1,45 @@
+.elementor-1735 .elementor-element.elementor-element-1336c617 > .elementor-container{min-height:637px;}.elementor-1735 .elementor-element.elementor-element-1336c617:not(.elementor-motion-effects-element-type-background), .elementor-1735 .elementor-element.elementor-element-1336c617 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#B3E1FF;background-image:url("http://itd.local/wp-content/uploads/2023/05/Capgemini_research_THE-AUTONOMOUS-CAR-A-Consumer-Perspective-1-scaled.webp");background-position:center center;background-repeat:no-repeat;background-size:cover;}.elementor-1735 .elementor-element.elementor-element-1336c617{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;margin-top:0px;margin-bottom:1px;padding:0px 0px 0px 0px;}.elementor-1735 .elementor-element.elementor-element-1336c617 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-1735 .elementor-element.elementor-element-1336c617 > .elementor-shape-bottom svg{width:calc(100% + 1.3px);height:59px;}.elementor-1735 .elementor-element.elementor-element-617f05d8{text-align:center;}.elementor-1735 .elementor-element.elementor-element-617f05d8 .elementor-heading-title{color:#2CFF99;font-size:6em;text-transform:uppercase;letter-spacing:8.5px;text-shadow:5px -28px 100px rgba(0,0,0,0.3);}.elementor-1735 .elementor-element.elementor-element-617f05d8 > .elementor-widget-container{margin:0px 0px -109px 0px;}.elementor-1735 .elementor-element.elementor-element-a206e61 .elementor-heading-title{font-size:2.5em;}.elementor-1735 .elementor-element.elementor-element-a206e61 > .elementor-widget-container{padding:30px 0px 30px 0px;}.elementor-1735 .elementor-element.elementor-element-1672a8a{font-size:1.3em;}.elementor-1735 .elementor-element.elementor-element-1672a8a > .elementor-widget-container{padding:020px 020px 0px 020px;}.elementor-1735 .elementor-element.elementor-element-45a400b{font-size:1.3em;}.elementor-1735 .elementor-element.elementor-element-45a400b > .elementor-widget-container{padding:0px 20px 0px 20px;}.elementor-1735 .elementor-element.elementor-element-eb15932{font-size:1.3em;}.elementor-1735 .elementor-element.elementor-element-eb15932 > .elementor-widget-container{padding:0px 020px 0px 020px;}.elementor-1735 .elementor-element.elementor-element-64b5b39{font-size:1.3em;}.elementor-1735 .elementor-element.elementor-element-64b5b39 > .elementor-widget-container{padding:0px 020px 0px 020px;}.elementor-1735 .elementor-element.elementor-element-2645359 > .elementor-widget-container{padding:040px 0px 0px 0px;}.elementor-1735 .elementor-element.elementor-element-7fd263d .elementor-heading-title{font-size:2.5em;}.elementor-1735 .elementor-element.elementor-element-7fd263d > .elementor-widget-container{padding:30px 0px 30px 0px;}.elementor-1735 .elementor-element.elementor-element-d3e0571{font-size:1.3em;}.elementor-1735 .elementor-element.elementor-element-d3e0571 > .elementor-widget-container{padding:0px 020px 0px 020px;}.elementor-1735 .elementor-element.elementor-element-8e57193 > .elementor-widget-container{padding:040px 0px 80px 0px;}@media(min-width:1025px){.elementor-1735 .elementor-element.elementor-element-1336c617:not(.elementor-motion-effects-element-type-background), .elementor-1735 .elementor-element.elementor-element-1336c617 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-attachment:scroll;}}@media(max-width:1024px){.elementor-1735 .elementor-element.elementor-element-1336c617 > .elementor-container{min-height:400px;}.elementor-1735 .elementor-element.elementor-element-617f05d8 .elementor-heading-title{font-size:50px;letter-spacing:7px;}.elementor-1735 .elementor-element.elementor-element-617f05d8 > .elementor-widget-container{margin:0px 0px 0px 0px;}}@media(max-width:767px){.elementor-1735 .elementor-element.elementor-element-1336c617 > .elementor-container{min-height:300px;}.elementor-1735 .elementor-element.elementor-element-617f05d8 .elementor-heading-title{font-size:35px;letter-spacing:3px;}.elementor-1735 .elementor-element.elementor-element-617f05d8 > .elementor-widget-container{margin:0px 0px 0px 0px;}}/* Start custom CSS for heading, class: .elementor-element-617f05d8 */:root{
+    --myText : 'PREDNOSTI I MANE';
+    --textColor: #FFFFFF;
+    --textStroke: 0px;
+    --anDuration: 6s;
+}
+.elementor-1735 .elementor-element.elementor-element-617f05d8{
+    -webkit-text-stroke: var(--textStroke) var(--textColor);
+    display: table;
+    width: -moz-fit-content;
+    width: -webkit-fit-content;
+    width: fit-content;
+    text-align: center;
+    margin: 0 auto
+}
+.elementor-1735 .elementor-element.elementor-element-617f05d8 .elementor-heading-title::before{
+    content: var(--myText);
+    color: var(--textColor);
+    position: absolute;
+    top: 0;
+    width: 0%;
+    height: 100%;
+    text-align: left;
+    overflow: hidden;
+    white-space: nowrap;
+    border-right: var(--textStroke) solid var(--textColor);
+    -webkit-animation:animateX var(--anDuration) linear infinite;
+            animation:animateX var(--anDuration) linear infinite;
+}
+@-webkit-keyframes animateX{
+   0%,10%,100%{
+        width:0%;
+    }
+   70%, 90%{
+        width: 100%;
+    }
+}
+@keyframes animateX{
+   0%,10%,100%{
+        width:0%;
+    }
+   70%, 90%{
+        width: 100%;
+    }
+}/* End custom CSS */

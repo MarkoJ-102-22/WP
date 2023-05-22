@@ -1,0 +1,45 @@
+.elementor-1730 .elementor-element.elementor-element-1336c617 > .elementor-container{min-height:637px;}.elementor-1730 .elementor-element.elementor-element-1336c617:not(.elementor-motion-effects-element-type-background), .elementor-1730 .elementor-element.elementor-element-1336c617 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#B3E1FF;background-image:url("http://itd.local/wp-content/uploads/2023/05/Capgemini_research_THE-AUTONOMOUS-CAR-A-Consumer-Perspective-1-scaled.webp");background-position:center center;background-repeat:no-repeat;background-size:cover;}.elementor-1730 .elementor-element.elementor-element-1336c617{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;margin-top:0px;margin-bottom:1px;padding:0px 0px 0px 0px;}.elementor-1730 .elementor-element.elementor-element-1336c617 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-1730 .elementor-element.elementor-element-1336c617 > .elementor-shape-bottom svg{width:calc(100% + 1.3px);height:59px;}.elementor-1730 .elementor-element.elementor-element-617f05d8{text-align:center;}.elementor-1730 .elementor-element.elementor-element-617f05d8 .elementor-heading-title{color:#2CFF99;font-size:6em;text-transform:uppercase;letter-spacing:8.5px;text-shadow:5px -28px 100px rgba(0,0,0,0.3);}.elementor-1730 .elementor-element.elementor-element-617f05d8 > .elementor-widget-container{margin:0px 0px -96px 0px;}.elementor-1730 .elementor-element.elementor-element-38765c5b{margin-top:125px;margin-bottom:125px;}.elementor-bc-flex-widget .elementor-1730 .elementor-element.elementor-element-3d440c4.elementor-column .elementor-widget-wrap{align-items:center;}.elementor-1730 .elementor-element.elementor-element-3d440c4.elementor-column.elementor-element[data-element_type="column"] > .elementor-widget-wrap.elementor-element-populated{align-content:center;align-items:center;}.elementor-1730 .elementor-element.elementor-element-3d440c4 > .elementor-element-populated{padding:50px 50px 50px 78px;}.elementor-1730 .elementor-element.elementor-element-23bc2676{text-align:left;color:var( --e-global-color-secondary );font-size:1.6em;}.elementor-1730 .elementor-element.elementor-element-23bc2676 > .elementor-widget-container{padding:030px 030px 030px 030px;}.elementor-1730 .elementor-element.elementor-element-2f3a320 .elementor-heading-title{font-size:2.5em;}.elementor-1730 .elementor-element.elementor-element-d20f8ec{font-size:1.3em;}.elementor-1730 .elementor-element.elementor-element-6b253d9 .elementor-heading-title{font-size:2.5em;}.elementor-1730 .elementor-element.elementor-element-cf17282{font-size:1.3em;}.elementor-1730 .elementor-element.elementor-element-679933b{padding:30px 30px 75px 30px;}.elementor-1730 .elementor-element.elementor-element-1aa1c5a .elementor-heading-title{font-size:2.5em;}.elementor-1730 .elementor-element.elementor-element-8ff1fd2{font-size:1.3em;}.elementor-1730 .elementor-element.elementor-element-f0535d2 .elementor-heading-title{font-size:2.5em;}.elementor-1730 .elementor-element.elementor-element-d7d2516{font-size:1.3em;}@media(min-width:1025px){.elementor-1730 .elementor-element.elementor-element-1336c617:not(.elementor-motion-effects-element-type-background), .elementor-1730 .elementor-element.elementor-element-1336c617 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-attachment:scroll;}}@media(max-width:1024px){.elementor-1730 .elementor-element.elementor-element-1336c617 > .elementor-container{min-height:400px;}.elementor-1730 .elementor-element.elementor-element-617f05d8 .elementor-heading-title{font-size:50px;letter-spacing:7px;}.elementor-1730 .elementor-element.elementor-element-617f05d8 > .elementor-widget-container{margin:0px 0px 0px 0px;}.elementor-1730 .elementor-element.elementor-element-38765c5b{margin-top:100px;margin-bottom:100px;}.elementor-1730 .elementor-element.elementor-element-3d440c4 > .elementor-element-populated{padding:0px 20px 0px 20px;}}@media(max-width:767px){.elementor-1730 .elementor-element.elementor-element-1336c617 > .elementor-container{min-height:300px;}.elementor-1730 .elementor-element.elementor-element-617f05d8 .elementor-heading-title{font-size:35px;letter-spacing:3px;}.elementor-1730 .elementor-element.elementor-element-617f05d8 > .elementor-widget-container{margin:0px 0px 0px 0px;}.elementor-1730 .elementor-element.elementor-element-38765c5b{margin-top:50px;margin-bottom:50px;padding:0px 10px 0px 10px;}.elementor-1730 .elementor-element.elementor-element-3d440c4 > .elementor-element-populated{padding:20px 10px 10px 10px;}}/* Start custom CSS for heading, class: .elementor-element-617f05d8 */:root{
+    --myText : 'TEHNOLOGIJE';
+    --textColor: #FFFFFF;
+    --textStroke: px;
+    --anDuration: 6s;
+}
+.elementor-1730 .elementor-element.elementor-element-617f05d8{
+    -webkit-text-stroke: var(--textStroke) var(--textColor);
+    display: table;
+    width: -moz-fit-content;
+    width: -webkit-fit-content;
+    width: fit-content;
+    text-align: center;
+    margin: 0 auto
+}
+.elementor-1730 .elementor-element.elementor-element-617f05d8 .elementor-heading-title::before{
+    content: var(--myText);
+    color: var(--textColor);
+    position: absolute;
+    top: 0;
+    width: 0%;
+    height: 120%;
+    text-align: left;
+    overflow: hidden;
+    white-space: nowrap;
+    border-right: var(--textStroke) solid var(--textColor);
+    -webkit-animation:animateX var(--anDuration) linear infinite;
+            animation:animateX var(--anDuration) linear infinite;
+}
+@-webkit-keyframes animateX{
+   0%,10%,100%{
+        width:0%;
+    }
+   70%, 90%{
+        width: 100%;
+    }
+}
+@keyframes animateX{
+   0%,10%,100%{
+        width:0%;
+    }
+   70%, 90%{
+        width: 100%;
+    }
+}/* End custom CSS */
